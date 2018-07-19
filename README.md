@@ -14,4 +14,4 @@ click button giảm, số sẽ giảm đi
 
 # Giao diện như sau
 
-![redux_advanced]()
+![redux_advanced](https://github.com/anhtbok92/AdvancedReduxExcersiceReactNativeTrainnig/blob/master/redux_couter.PNG)
